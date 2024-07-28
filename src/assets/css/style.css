@@ -26,6 +26,8 @@ body {
 .main_container{
     align-items: center;
     height: fit-content;
+    transition: all 0.3s ease;
+
 }
 
 
@@ -73,6 +75,8 @@ p {
 .div_1{
     width: 100vw;
     height: fit-content;
+    transition: all 0.3s ease;
+
 }
 
 
@@ -85,6 +89,8 @@ p {
 .div_90{
     width: 85vw;
     height: fit-content;
+    transition: all 0.3s ease;
+
 }
 
 
@@ -98,6 +104,8 @@ p {
     height: fit-content;
     padding-top: 10% ;
     padding-bottom:10% ;
+    transition: all 0.3s ease;
+
 }
 
 
@@ -127,6 +135,8 @@ p {
     padding-bottom: 3%;
     border-radius: 15px;
     background-color: hsl(330, 100%, 98%);
+    transition: all 0.3s ease;
+
 }
 
 
@@ -160,6 +170,8 @@ p {
     padding-top: 8%;
     padding-bottom: 5%;
     border-bottom: 0.5px rgba(128, 128, 128, 0.322) solid ;
+    transition: all 0.3s ease;
+
 }
 
 
@@ -185,6 +197,8 @@ p {
     flex-direction: column;
     padding-top: 8%;
     border-bottom: 0.5px rgba(128, 128, 128, 0.322) solid;
+    transition: all 0.3s ease;
+
 }
 
 .instructions{
@@ -216,6 +230,8 @@ p {
 
 .div_6{
     height: fit-content;    
+    transition: all 0.3s ease;
+
 }
 
 .div_6 h2{
