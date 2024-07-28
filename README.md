@@ -42,7 +42,7 @@ Your challenge is to build out this recipe page and get it looking as close to t
 
 ### What I learned
 
-1. I learnt how to use transaction to make the transformation from mobile to desktop smoothly
+1. I learnt how to use transitions to make the transformation from mobile to desktop smoothly
 
 
 ### Continued development
