@@ -234,6 +234,7 @@ p {
 
 }
 
+
 .div_6 h2{
     font-size: clamp(0.1rem , 8vw , 4rem);
     padding-top: 7%;
@@ -255,9 +256,11 @@ p {
    
 }
 
+
 .value_name{
     width: 50%;
     text-align: center;
+    padding: 3%;
 }
 
 
@@ -265,12 +268,19 @@ p {
     color:  hsl(14, 45%, 36%);
     font-weight: 600;
     width: 50%;
+    padding: 3%;
+
 }
+
 
 .last_value{
     border-bottom: none;
 }
 
+
+.table{
+    width: 100%;
+}
 
 
 
